@@ -1,17 +1,16 @@
-<pre style="text-align: center; color: white; background-color: black; border: 1px solid white; border-radius: 5px; font-weight: bold; line-height: 110%;">
+<pre>
  ____   _  _   ___   __ _   _  _  
 (__  ) ( \/ ) / __) (  / ) / )( \ 
  / _/   )  ( ( (__   )  (  \ \/ / 
 (____) (_/\_) \___) (__\_)  \__/  
 
 </pre>
-
-Welcome to my GitHub profile!
-
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=zxckv&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zxckv&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=zxckv&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+<br>
+![](https://nirzak-streak-stats.vercel.app/?user=zxckv&theme=dark&hide_border=false)
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zxckv&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 --- 
