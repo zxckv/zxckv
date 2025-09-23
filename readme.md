@@ -1,4 +1,4 @@
-<pre style="text-align: center; color: white; background-color: black; border: 1px solid white; border-radius: 5px; font-weight: bold; line-height: 110%;">
+<pre style="text-align: center; color: white; background-color: black; border: 1px solid white; border-radius: 5px; font-weight: bold; line-height: 110%;" align="center">
  ____   _  _   ___   __ _   _  _  
 (__  ) ( \/ ) / __) (  / ) / )( \ 
  / _/   )  ( ( (__   )  (  \ \/ / 
